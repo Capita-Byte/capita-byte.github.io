@@ -30,7 +30,7 @@ See the preview [here](localhost:4000).
 ### TODO
 - [x] Decide on a theme
 - []  Implement the sendSearchTerm functionality
-- [] Dockerize the project
+- [x] Dockerize the project
 - [ ] Customize theme
 - [x] Deploy theme
 - [x] Enable SEO plugins
