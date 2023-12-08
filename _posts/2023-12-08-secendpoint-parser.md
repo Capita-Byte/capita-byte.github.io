@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SECEndpoint-parser: Simplifying Financial Data"
-author: Mehrdad
+author: mehrdad
 categories: [ Query, NextGen ]
 beforetoc: "Join me in a casual chat about the SECEndpoint-parser project, where we make sense of financial data in simple terms."
 comments: true
